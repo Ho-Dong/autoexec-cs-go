@@ -1,13 +1,19 @@
 # Rackman CS:GO autoexec and config
 
 Hello guys, this is actually my cs:go config.
+
 Excuse in advance for my bad english but i'll tried to do my best.
+
 In this 'guide' i'll show you how to correctly customize and params your cs:go.
 
+
 The first step is to create a file named `autoexec.cfg` in your cs:go cfg folder
+
 This folder is located in : `DRIVE:\...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
 
+
 I recommend to use notepad++ for a clean editing of this file.
+
 
 ### Launch options
 
@@ -31,6 +37,7 @@ Non-exclusive list of commands :
 + +exec autoexec.cfg # Load your autoexec
 
 etc...
+
 You can found more commands at : https://steamcommunity.com/sharedfiles/filedetails/?l=french&id=379782151
 
 ### Usefull Softwares & websites
